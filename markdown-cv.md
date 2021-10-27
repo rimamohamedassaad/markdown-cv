@@ -47,4 +47,4 @@ mathematics.
 2021 : laser specialist at vee clinick .
 
 
-![my image](https://download.JPG)
+![my image](download.JPG)
