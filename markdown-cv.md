@@ -44,5 +44,6 @@ Experinces:
 
 2020 : Private Teacher at “ jabali center” for the fifth grades in French and
 mathematics.
+2021 : laser specialist at vee clinick .
 
 
